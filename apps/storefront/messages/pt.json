@@ -1,0 +1,126 @@
+{
+  "Metadata": {
+    "title": "VELURE | Botânicos respaldados pela ciência para pele e cabelo",
+    "description": "Cuidados premium para pele e cabelo impulsionados por botânicos respaldados pela ciência. Descubra uma pele radiante e cabelos lustrosos com a VELURE."
+  },
+  "Nav": {
+    "home": "Início",
+    "shop": "Loja",
+    "skincare": "Cuidados com a Pele",
+    "haircare": "Cuidados Capilares",
+    "collections": "Coleções",
+    "blog": "Diário",
+    "about": "Sobre",
+    "cart": "Carrinho",
+    "search": "Buscar",
+    "account": "Conta"
+  },
+  "Hero": {
+    "headline": "Botânicos respaldados pela ciência para pele e cabelos radiantes",
+    "subheadline": "Descubra nossa coleção curada de formulações premium, elaboradas com potentes ingredientes naturais e respaldadas por pesquisa clínica.",
+    "cta": "Explorar a Coleção",
+    "secondaryCta": "Nossa História"
+  },
+  "FeaturedCollections": {
+    "title": "Nossas Coleções",
+    "subtitle": "Explore nossas linhas cuidadosamente selecionadas",
+    "skin": {
+      "title": "Velure Pele",
+      "description": "Cuidados transformadores para a pele que aproveitam o poder dos botânicos para revelar sua luminosidade natural.",
+      "cta": "Explorar Cuidados com a Pele"
+    },
+    "hair": {
+      "title": "Velure Cabelo",
+      "description": "Cuidados capilares luxuosos formulados para nutrir, fortalecer e restaurar a vitalidade natural dos seus cabelos.",
+      "cta": "Explorar Cuidados Capilares"
+    }
+  },
+  "Bestsellers": {
+    "title": "Mais Vendidos",
+    "subtitle": "Nossas formulações mais amadas",
+    "viewAll": "Ver Todos os Produtos"
+  },
+  "Product": {
+    "addToCart": "Adicionar ao Carrinho",
+    "soldOut": "Esgotado",
+    "price": "Preço",
+    "quantity": "Quantidade",
+    "description": "Descrição",
+    "ingredients": "Ingredientes",
+    "howToUse": "Modo de Uso",
+    "reviews": "Avaliações",
+    "relatedProducts": "Você Também Pode Gostar",
+    "size": "Tamanho",
+    "backToProducts": "Voltar aos Produtos"
+  },
+  "Products": {
+    "title": "Todos os Produtos",
+    "subtitle": "Explore nossa linha completa de cuidados premium para pele e cabelo",
+    "filterBy": "Filtrar por",
+    "sortBy": "Ordenar por",
+    "noProducts": "Nenhum produto encontrado",
+    "loadMore": "Carregar Mais"
+  },
+  "Collections": {
+    "title": "Coleções",
+    "subtitle": "Explore nossas coleções curadas",
+    "viewCollection": "Ver Coleção",
+    "productsCount": "{count, plural, =1 {# produto} other {# produtos}}"
+  },
+  "Cart": {
+    "title": "Seu Carrinho",
+    "empty": "Seu carrinho está vazio",
+    "emptyMessage": "Parece que você ainda não adicionou nada ao seu carrinho.",
+    "continueShopping": "Continuar Comprando",
+    "subtotal": "Subtotal",
+    "shipping": "Frete",
+    "shippingNote": "Calculado no checkout",
+    "total": "Total",
+    "checkout": "Finalizar Compra",
+    "remove": "Remover",
+    "update": "Atualizar"
+  },
+  "Trust": {
+    "title": "A Promessa VELURE",
+    "crueltyFree": "Livre de Crueldade",
+    "crueltyFreeDesc": "Nunca testado em animais. Certificado Leaping Bunny.",
+    "cleanIngredients": "Ingredientes Limpos",
+    "cleanIngredientsDesc": "Sem parabenos, sulfatos e fragrâncias sintéticas.",
+    "sustainable": "Sustentável",
+    "sustainableDesc": "Embalagens eco-conscientes e ingredientes obtidos de forma responsável.",
+    "clinicallyTested": "Clinicamente Testado",
+    "clinicallyTestedDesc": "Cada formulação respaldada por rigorosos estudos clínicos."
+  },
+  "Blog": {
+    "title": "O Diário VELURE",
+    "subtitle": "Insights sobre beleza, bem-estar e a ciência por trás de nossas formulações",
+    "readMore": "Leia Mais",
+    "noPosts": "Nenhum artigo ainda. Volte em breve.",
+    "categories": "Categorias",
+    "recentPosts": "Artigos Recentes"
+  },
+  "Footer": {
+    "tagline": "Botânicos respaldados pela ciência para pele e cabelos radiantes.",
+    "shop": "Loja",
+    "skincare": "Cuidados com a Pele",
+    "haircare": "Cuidados Capilares",
+    "bestsellers": "Mais Vendidos",
+    "newArrivals": "Novidades",
+    "company": "Empresa",
+    "about": "Sobre Nós",
+    "journal": "Diário",
+    "sustainability": "Sustentabilidade",
+    "careers": "Carreiras",
+    "support": "Suporte",
+    "contact": "Fale Conosco",
+    "faq": "Perguntas Frequentes",
+    "shippingReturns": "Frete e Devoluções",
+    "privacyPolicy": "Política de Privacidade",
+    "termsOfService": "Termos de Serviço",
+    "newsletter": "Newsletter",
+    "newsletterText": "Inscreva-se para ofertas exclusivas e dicas de beleza.",
+    "emailPlaceholder": "Digite seu e-mail",
+    "subscribe": "Inscrever-se",
+    "copyright": "© {year} VELURE. Todos os direitos reservados."
+  }
+}

@@ -1,0 +1,67 @@
+@import "tailwindcss";
+
+:root {
+  --color-teal: #1A5653;
+  --color-teal-dark: #133F3D;
+  --color-teal-light: #237A76;
+  --color-cream: #F5F0E8;
+  --color-cream-dark: #EBE4D6;
+  --color-gold: #C9A96E;
+  --color-gold-dark: #B8944F;
+  --color-gold-light: #D4BC8A;
+  --background: #FFFFFF;
+  --foreground: #1A1A1A;
+  --muted: #6B6B6B;
+  --border: #D9D3C7;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-muted: var(--muted);
+  --color-border: var(--border);
+  --color-teal: var(--color-teal);
+  --color-teal-dark: var(--color-teal-dark);
+  --color-teal-light: var(--color-teal-light);
+  --color-cream: var(--color-cream);
+  --color-cream-dark: var(--color-cream-dark);
+  --color-gold: var(--color-gold);
+  --color-gold-dark: var(--color-gold-dark);
+  --color-gold-light: var(--color-gold-light);
+  --font-sans: var(--font-dm-sans);
+  --font-heading: var(--font-playfair-display);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans), system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading), Georgia, serif;
+}
+
+a, button {
+  transition: color 0.2s ease, background-color 0.2s ease, border-color 0.2s ease, opacity 0.2s ease;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-cream);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-teal);
+  border-radius: 3px;
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-teal);
+  outline-offset: 2px;
+}

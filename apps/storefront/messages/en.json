@@ -1,0 +1,126 @@
+{
+  "Metadata": {
+    "title": "VELURE | Science-Backed Botanicals for Skin & Hair",
+    "description": "Premium skincare and haircare powered by science-backed botanicals. Discover radiant skin and lustrous hair with VELURE."
+  },
+  "Nav": {
+    "home": "Home",
+    "shop": "Shop",
+    "skincare": "Skincare",
+    "haircare": "Haircare",
+    "collections": "Collections",
+    "blog": "Journal",
+    "about": "About",
+    "cart": "Cart",
+    "search": "Search",
+    "account": "Account"
+  },
+  "Hero": {
+    "headline": "Science-backed botanicals for radiant skin & hair",
+    "subheadline": "Discover our curated collection of premium formulations, crafted with potent natural ingredients and backed by clinical research.",
+    "cta": "Shop the Collection",
+    "secondaryCta": "Our Story"
+  },
+  "FeaturedCollections": {
+    "title": "Our Collections",
+    "subtitle": "Explore our carefully curated lines",
+    "skin": {
+      "title": "Velure Skin",
+      "description": "Transformative skincare that harnesses the power of botanicals to reveal your natural radiance.",
+      "cta": "Explore Skincare"
+    },
+    "hair": {
+      "title": "Velure Hair",
+      "description": "Luxurious haircare formulated to nourish, strengthen, and restore your hair's natural vitality.",
+      "cta": "Explore Haircare"
+    }
+  },
+  "Bestsellers": {
+    "title": "Bestsellers",
+    "subtitle": "Our most loved formulations",
+    "viewAll": "View All Products"
+  },
+  "Product": {
+    "addToCart": "Add to Cart",
+    "soldOut": "Sold Out",
+    "price": "Price",
+    "quantity": "Quantity",
+    "description": "Description",
+    "ingredients": "Ingredients",
+    "howToUse": "How to Use",
+    "reviews": "Reviews",
+    "relatedProducts": "You May Also Like",
+    "size": "Size",
+    "backToProducts": "Back to Products"
+  },
+  "Products": {
+    "title": "All Products",
+    "subtitle": "Explore our full range of premium skincare and haircare",
+    "filterBy": "Filter by",
+    "sortBy": "Sort by",
+    "noProducts": "No products found",
+    "loadMore": "Load More"
+  },
+  "Collections": {
+    "title": "Collections",
+    "subtitle": "Browse our curated collections",
+    "viewCollection": "View Collection",
+    "productsCount": "{count, plural, =1 {# product} other {# products}}"
+  },
+  "Cart": {
+    "title": "Your Cart",
+    "empty": "Your cart is empty",
+    "emptyMessage": "Looks like you haven't added anything to your cart yet.",
+    "continueShopping": "Continue Shopping",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "shippingNote": "Calculated at checkout",
+    "total": "Total",
+    "checkout": "Proceed to Checkout",
+    "remove": "Remove",
+    "update": "Update"
+  },
+  "Trust": {
+    "title": "The VELURE Promise",
+    "crueltyFree": "Cruelty-Free",
+    "crueltyFreeDesc": "Never tested on animals. Leaping Bunny certified.",
+    "cleanIngredients": "Clean Ingredients",
+    "cleanIngredientsDesc": "Free from parabens, sulfates, and synthetic fragrances.",
+    "sustainable": "Sustainable",
+    "sustainableDesc": "Eco-conscious packaging and responsibly sourced ingredients.",
+    "clinicallyTested": "Clinically Tested",
+    "clinicallyTestedDesc": "Every formulation backed by rigorous clinical studies."
+  },
+  "Blog": {
+    "title": "The VELURE Journal",
+    "subtitle": "Insights on beauty, wellness, and the science behind our formulations",
+    "readMore": "Read More",
+    "noPosts": "No articles yet. Check back soon.",
+    "categories": "Categories",
+    "recentPosts": "Recent Articles"
+  },
+  "Footer": {
+    "tagline": "Science-backed botanicals for radiant skin & hair.",
+    "shop": "Shop",
+    "skincare": "Skincare",
+    "haircare": "Haircare",
+    "bestsellers": "Bestsellers",
+    "newArrivals": "New Arrivals",
+    "company": "Company",
+    "about": "About Us",
+    "journal": "Journal",
+    "sustainability": "Sustainability",
+    "careers": "Careers",
+    "support": "Support",
+    "contact": "Contact Us",
+    "faq": "FAQ",
+    "shippingReturns": "Shipping & Returns",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "newsletter": "Newsletter",
+    "newsletterText": "Subscribe for exclusive offers and beauty insights.",
+    "emailPlaceholder": "Enter your email",
+    "subscribe": "Subscribe",
+    "copyright": "© {year} VELURE. All rights reserved."
+  }
+}
